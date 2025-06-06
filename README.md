@@ -38,8 +38,8 @@ Open your terminal or command prompt and run the following commands:
 
 ```bash
 # Clone the repository (replace the URL with the actual repo URL if hosted on GitHub)
-git clone https://github.com/your-username/polynomial-regression-visualization.git
-cd polynomial-regression-visualization
+git clone https://github.com/CodeLoopdroid/Polynomial-Regression-Comparisons.git
+cd Polynomial-Regression-Comparisons
 
 # (Optional) Create and activate a virtual environment
 python -m venv venv
